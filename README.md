@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragathish</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> I'm Pragathish</h1>
 <h3 align="center">Aspiring Full Stack developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragathish07&label=Profile%20views&color=0e75b6&style=flat" alt="pragathish07" /> </p>
